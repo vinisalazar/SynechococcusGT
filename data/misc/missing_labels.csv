@@ -1,8 +1,8 @@
 assembly_accession,organism_name,infraspecific_name,new_genus,new_species,new_strain,label
-GCA_011047875.1,Synechococcus sp.,,JA-3-3Ab,Cyanobacteriia,o_PCC-7336_f_JA-3-3Ab_g_JA-3-3Ab_s_,c_Cyanobacteriia_o_PCC-7336_f_JA-3-3Ab_g_JA-3-3Ab_s_
-GCA_011055065.1,Synechococcus sp.,,JA-3-3Ab,Cyanobacteriia,o_PCC-7336_f_JA-3-3Ab_g_JA-3-3Ab_s_,c_Cyanobacteriia_o_PCC-7336_f_JA-3-3Ab_g_JA-3-3Ab_s_
-GCA_012269695.1,Synechococcus sp.,,RCC307,Cyanobacteriia,o_Synechococcales_f_Cyanobiaceae_g_RCC307_s_,c_Cyanobacteriia_o_Synechococcales_f_Cyanobiaceae_g_RCC307_s_
-GCA_012270465.1,Synechococcus sp.,,RCC307,Cyanobacteriia,o_Synechococcales_f_Cyanobiaceae_g_RCC307_s_,c_Cyanobacteriia_o_Synechococcales_f_Cyanobiaceae_g_RCC307_s_
+GCA_011047875.1,Synechococcus sp.,,JA-3-3Ab,Cyanobacteriia,o_PCC-7336_f_JA-3-3Ab_g_JA-3-3Ab_s_,Leptococcus_yellowstonii_JA-3-3Ab
+GCA_011055065.1,Synechococcus sp.,,JA-3-3Ab,Cyanobacteriia,o_PCC-7336_f_JA-3-3Ab_g_JA-3-3Ab_s_,Leptococcus_yellowstonii_JA-3-3Ab
+GCA_012269695.1,Synechococcus sp.,,RCC307,Cyanobacteriia,o_Synechococcales_f_Cyanobiaceae_g_RCC307_s_,Regnicoccus_sp._RCC3007
+GCA_012270465.1,Synechococcus sp.,,RCC307,Cyanobacteriia,o_Synechococcales_f_Cyanobiaceae_g_RCC307_s_,Regnicoccus_sp._RCC3007
 GCA_003846445.1,Synechococcus elongatus PCC 11801,strain=PCC 11801,Synechococcus,Cyanobacteriia,o_Synechococcales_f_Synechococcaceae_g_Synechococcus_s_,c_Cyanobacteriia_o_Synechococcales_f_Synechococcaceae_g_Synechococcus_s_
 GCA_009498715.1,Synechococcus elongatus PCC 11802,strain=PCC 11802,Synechococcus,Cyanobacteriia,o_Synechococcales_f_Synechococcaceae_g_Synechococcus_s_,c_Cyanobacteriia_o_Synechococcales_f_Synechococcaceae_g_Synechococcus_s_
 GCA_000019485.1,Synechococcus sp. PCC 7002,strain=PCC 7002; ATCC 27264,Limnothrix,Cyanobacteriia,o_Cyanobacteriales_f_Limnotrichaceae_g_Limnothrix_s_Limnothrix sp001693275,c_Cyanobacteriia_o_Cyanobacteriales_f_Limnotrichaceae_g_Limnothrix_s_Limnothrix sp001693275
