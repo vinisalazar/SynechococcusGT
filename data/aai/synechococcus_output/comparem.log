@@ -1,0 +1,12 @@
+[2020-05-28 15:21:33] INFO: CompareM v0.0.25
+[2020-05-28 15:21:33] INFO: comparem aai_wf -c 32 --file_ext faa --proteins synechococcus_input synechococcus_output --tmp_dir tmp_dir
+[2020-05-28 15:21:33] INFO: Appending genome identifiers to query genes.
+[2020-05-28 15:21:35] INFO: Creating DIAMOND database (be patient!).
+[2020-05-28 15:21:37] INFO: Performing self similarity sequence between genomes (be patient!).
+[2020-05-28 15:28:26] INFO: Sorting table with hits (be patient!).
+[2020-05-28 15:31:41] INFO: Sequence similarity results written to: synechococcus_output/similarity
+[2020-05-28 15:31:41] INFO: Calculating length of genes.
+[2020-05-28 15:31:42] INFO: Indexing sorted hit table.
+[2020-05-28 15:32:27] INFO: Calculating AAI between all 28441 pairs of genomes:
+[2020-05-28 15:34:22] INFO: Summarizing AAI results.
+[2020-05-28 15:34:22] INFO: AAI between genomes written to: synechococcus_output/aai/aai_summary.tsv

@@ -1,0 +1,24 @@
+[2020-05-27 22:53:07] INFO: GTDB-Tk v1.0.2
+[2020-05-27 22:53:07] INFO: gtdbtk classify_wf --batchfile batchfile.tsv --out_dir output --cpus 32 --prefix synechococcus -x fna --min_perc_aa 0
+[2020-05-27 22:53:07] INFO: Using GTDB-Tk reference data version r89: /home/vini/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/
+[2020-05-27 22:53:07] INFO: Identifying markers in 239 genomes with 32 threads.
+[2020-05-27 22:53:07] INFO: Running Prodigal V2.6.3 to identify genes.
+[2020-05-27 22:56:41] INFO: Identifying TIGRFAM protein families.
+[2020-05-27 22:57:35] INFO: Identifying Pfam protein families.
+[2020-05-27 22:57:41] INFO: Annotations done using HMMER 3.3 (Nov 2019)
+[2020-05-27 22:57:45] INFO: Done.
+[2020-05-27 22:57:45] INFO: Aligning markers in 239 genomes with 32 threads.
+[2020-05-27 22:57:45] INFO: Processing 239 genomes identified as bacterial.
+[2020-05-27 22:57:47] INFO: Read concatenated alignment for 23458 GTDB genomes.
+[2020-05-27 23:00:13] INFO: Masking columns of multiple sequence alignment using canonical mask.
+[2020-05-27 23:00:51] INFO: Masked alignment from 41155 to 5040 AAs.
+[2020-05-27 23:00:51] INFO: Creating concatenated alignment for 23697 GTDB and user genomes.
+[2020-05-27 23:00:52] INFO: Creating concatenated alignment for 239 user genomes.
+[2020-05-27 23:00:52] INFO: Done.
+[2020-05-27 23:00:52] INFO: Placing 239 bacterial genomes into reference tree with pplacer (be patient).
+[2020-05-27 23:26:42] INFO: pplacer version: v1.1.alpha19-0-g807f6f3
+[2020-05-27 23:26:47] INFO: Calculating average nucleotide identity using FastANI.
+[2020-05-27 23:28:01] INFO: fastANI version: 1.3
+[2020-05-27 23:33:02] INFO: 158 genome(s) have been classified using FastANI and pplacer.
+[2020-05-27 23:33:02] INFO: Calculating RED values based on reference tree.
+[2020-05-27 23:33:10] INFO: Done.
