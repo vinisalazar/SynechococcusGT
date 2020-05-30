@@ -6,19 +6,19 @@ GCA_011047875.1,Synechococcus sp.,,Leptococcus,yellowstonii,GCA_011047875.1,Lept
 GCA_011055065.1,Synechococcus sp.,,Leptococcus,yellowstonii,GCA_011055065.1,Leptococcus_yellowstonii_GCA_011055065.1
 GCA_000019485.1,Synechococcus sp. PCC 7002,PCC 7002,Limnothrix,euryhalinus,PCC 7002,Limnothrix_euryhalinus_PCC 7002
 GCA_000332275.1,Synechococcus sp. PCC 7336,PCC 7336,Brevicoccus,berkleyi,PCC 7336,Brevicoccus_berkleyi_PCC_7336_GCA_000332275.1
-GCA_013133755.1,Synechococcus sp. MIT S9220,,Pseudosynechococcus,sp.,MIT S9220,Synechococcus_C_sp._MIT S9220
-GCA_002685515.1,Synechococcus sp. CPC100,,Pseudosynechococcus,sp.,CPC100,Synechococcus_C_sp._CPC100
-GCA_900473965.1,Synechococcus sp. UW179A,,Pseudosynechococcus,sp.,UW179A,Synechococcus_C_sp._UW179A
-GCA_012103655.1,Synechococcus sp. s2_metabat2_7,,Pseudosynechococcus,sudipacificus,s2_metabat2_7,Synechococcus_C_sp._s2_metabat2_7
+GCA_013133755.1,Synechococcus sp. MIT S9220,,Pseudosynechococcus,sp.,MIT S9220,Pseudosynechococcus_sp._MIT S9220
+GCA_002685515.1,Synechococcus sp. CPC100,,Pseudosynechococcus,sp.,CPC100,Pseudoynechococcus_sp._CPC100
+GCA_900473965.1,Synechococcus sp. UW179A,,Pseudosynechococcus,sp.,UW179A,Pseudosynechococcus_sp._UW179A
+GCA_012103655.1,Synechococcus sp. s2_metabat2_7,,Pseudosynechococcus,sudipacificus,s2_metabat2_7,Pseudosynechococcus_sp._s2_metabat2_7
 GCA_003213755.1,Synechococcus sp. AG-420-M02,,Inmanicoccus,sp.,AG-420-M02,RCC307_sp._AG-420-M02
 GCA_003212155.1,Synechococcus sp. AG-450-D21,,Inmanicoccus,sp.,AG-450-D21,RCC307_sp._AG-450-D21
 GCA_003209555.1,Synechococcus sp. AG-450-M17,,Inmanicoccus,sp.,AG-450-M17,RCC307_sp._AG-450-M17
-GCA_003846445.1,Synechococcus elongatus PCC 11801,PCC 11801,Synechococcus,elongatus,PCC 11801,Synechococcus_elongatus_PCC 11801
-GCA_009498715.1,Synechococcus elongatus PCC 11802,PCC 11802,Synechococcus,elongatus,PCC 11802,Synechococcus_elongatus_PCC 11802
-GCA_007571215.1,Synechococcus sp. PNGco_C_binVS15,PNGco_C_binVS15,PNGco_C_binVS15,sp.,PNGco_C_binVS15,
-GCA_007571085.1,Synechococcus sp. PNGco_S_binSS4,PNGco_S_binSS4,PNGco_S_binSS4,sp.,PNGco_S_binSS4,
-GCA_008807075.1,Synechococcus sp. RSCCF101,RSCCF101,Synechococcus,sp.,RSCCF101,
-GCA_004209775.1,Synechococcus sp. WH 8101,WH 8101,Parasynechococcus,sp.,WH 8101,Synechococcus_C_sp._WH 8101
+GCA_003846445.1,Synechococcus elongatus PCC 11801,PCC 11801,Synechococcus,elongatus,PCC 11801,Synechococcus_sp._PCC 11801
+GCA_009498715.1,Synechococcus elongatus PCC 11802,PCC 11802,Synechococcus,elongatus,PCC 11802,Synechococcus_sp._PCC 11802
+GCA_007571215.1,Synechococcus sp. PNGco_C_binVS15,PNGco_C_binVS15,Synechospongium,sp.,Synechospongium_sp.PNGco_C_binVS15,
+GCA_007571085.1,Synechococcus sp. PNGco_S_binSS4,PNGco_S_binSS4,Synechospongium,sp.,Synechospongium_sp._PNGco_S_binSS4,
+GCA_008807075.1,Synechococcus sp. RSCCF101,RSCCF101,RSCCF101,sp.,RSCCF101,
+GCA_004209775.1,Synechococcus sp. WH 8101,WH 8101,Parasynechococcus,sp.,WH 8101,Pseudosynechococcus_sp._WH 8101
 GCA_902527915.1,uncultured Synechococcus sp.,,Synechococcus,sp.,GCA_902527915.1,Synechococcus_C_sp._GCA_902527915.1
 GCA_902533725.1,uncultured Synechococcus sp.,,Synechococcus,sp.,GCA_902533725.1,Synechococcus_C_sp._GCA_902533725.1
 GCA_902540675.1,uncultured Synechococcus sp.,,Synechococcus,sp.,GCA_902540675.1,Synechococcus_C_sp._GCA_902540675.1
@@ -38,10 +38,10 @@ GCA_902616995.1,uncultured Synechococcus sp.,,Synechococcus,sp.,GCA_902616995.1,
 GCA_902618505.1,uncultured Synechococcus sp.,,Synechococcus,sp.,GCA_902618505.1,Synechococcus_C_sp._GCA_902618505.1
 GCA_902635365.1,uncultured Synechococcus sp.,,Synechococcus,sp.,GCA_902635365.1,Synechococcus_C_sp._GCA_902635365.1
 GCA_902635485.1,uncultured Synechococcus sp.,,Synechococcus,sp.,GCA_902635485.1,Synechococcus_C_sp._GCA_902635485.1
-GCA_900474185.1,Synechococcus sp. UW69,,Parasynechococcus,sp.,UW69,Synechococcus_C_sp._UW69
-GCA_900474015.1,Synechococcus sp. UW106,,Parasynechococcus,sp.,UW106,Synechococcus_C_sp._UW106
-GCA_004332415.1,Synechococcus sp. BS55D,BS55D,Parasynechococcus,sp.,BS55D,Synechococcus_C_sp._BS55D
-GCA_004332405.1,Synechococcus sp. BS56D,BS56D,Parasynechococcus,sp.,BS56D,Synechococcus_C_sp._BS56D
+GCA_900474185.1,Synechococcus sp. UW69,,Parasynechococcus,sp.,UW69,Parasynechococcus_sp._UW69
+GCA_900474015.1,Synechococcus sp. UW106,,Parasynechococcus,sp.,UW106,Parasynechococcus_sp._UW106
+GCA_004332415.1,Synechococcus sp. BS55D,BS55D,Parasynechococcus,sp.,BS55D,Pseudoynechococcus_sp._BS55D
+GCA_004332405.1,Synechococcus sp. BS56D,BS56D,Parasynechococcus,sp.,BS56D,Pseudosynechococcus_sp._BS56D
 GCA_003210975.1,Synechococcus sp. AG-676-E04,,Parasynechococcus,sp.,AG-676-E04,Synechococcus_C_sp._AG-676-E04
 GCA_003283215.1,Synechococcus sp. AG-323-A01,,Parasynechococcus,sp.,AG-323-A01,Synechococcus_C_sp._AG-323-A01
 GCA_003283205.1,Synechococcus sp. AG-323-A11,,Parasynechococcus,sp.,AG-323-A11,Synechococcus_C_sp._AG-323-A11
@@ -49,15 +49,15 @@ GCA_003283165.1,Synechococcus sp. AG-323-F11,,Parasynechococcus,sp.,AG-323-F11,S
 GCA_003283055.1,Synechococcus sp. AG-323-O22,,Parasynechococcus,sp.,AG-323-O22,Synechococcus_C_sp._AG-323-O22
 GCA_003211565.1,Synechococcus sp. AG-670-A04,,Parasynechococcus,sp.,AG-670-A04,Synechococcus_C_sp._AG-670-A04
 GCA_003209215.1,Synechococcus sp. AG-670-A19,,Parasynechococcus,sp.,AG-670-A19,Synechococcus_C_sp._AG-670-A19
-GCA_003211255.1,Synechococcus sp. AG-673-A10,,Parasynechococcus,sp.,AG-673-A10,Synechococcus_C_sp._AG-673-A10
+GCA_003211255.1,Synechococcus sp. AG-673-A10,,Parasynechococcus,sp.,AG-673-A10,Parasynechococcus_sp._AG-673-A10
 GCA_003210565.1,Synechococcus sp. AG-683-A02,,Parasynechococcus,sp.,AG-683-A02,Synechococcus_C_sp._AG-683-A02
 GCA_003210535.1,Synechococcus sp. AG-683-A22,,Parasynechococcus,sp.,AG-683-A22,Synechococcus_C_sp._AG-683-A22
 GCA_003208815.1,Synechococcus sp. AG-683-B03,,Parasynechococcus,sp.,AG-683-B03,Synechococcus_C_sp._AG-683-B03
 GCA_003210385.1,Synechococcus sp. AG-686-A05,,Parasynechococcus,sp.,AG-686-A05,Synechococcus_C_sp._AG-686-A05
 GCA_003210345.1,Synechococcus sp. AG-686-C21,,Parasynechococcus,sp.,AG-686-C21,Synechococcus_C_sp._AG-686-C21
 GCA_003210335.1,Synechococcus sp. AG-686-D09,,Parasynechococcus,sp.,AG-686-D09,Synechococcus_C_sp._AG-686-D09
-GCA_011365345.1,Synechococcus sp. HB1133,HB1133,Parasynechococcus,sp.,HB1133,Synechococcus_C_sp._HB1133
-GCA_004212765.1,Synechococcus sp. MED-G133,,Parasynechococcus,sp.,MED-G133,Synechococcus_C_sp._MED-G133
+GCA_011365345.1,Synechococcus sp. HB1133,HB1133,Parasynechococcus,sp.,HB1133,Parasynechococcus_sp._HB1133
+GCA_004212765.1,Synechococcus sp. MED-G133,,Parasynechococcus,sp.,MED-G133,Parasynechococcus_sp._MED-G133
 GCA_004211895.1,Synechococcus sp. MED-G134,,Parasynechococcus,sp.,MED-G134,Synechococcus_C_sp._MED-G134
 GCA_011523835.1,Synechococcus sp. CO36386bin_29,,Parasynechococcus,sp.,CO36386bin_29,Synechococcus_C_sp._CO36386bin_29
 GCA_011525445.1,Synechococcus sp. CO36386bin_37,,Parasynechococcus,sp.,CO36386bin_37,Synechococcus_C_sp._CO36386bin_37
