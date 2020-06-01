@@ -2,8 +2,8 @@ assembly_accession,organism_name,infraspecific_name,new_genus,new_species,new_st
 GCA_012269695.1,Synechococcus sp.,,Inmanicoccus,sp.,GCA_012269695.1,Inmanicoccus_sp._GCA_012269695.1
 GCA_012270465.1,Synechococcus sp.,,Inmanicoccus,sp.,GCA_012270465.1,Inmanicoccus_sp._GCA_012270465.1
 GCA_002172175.1,Synechococcus sp. TMED169,,Inmanicoccus,sp.,TMED169,Inmanicoccus_sp._TMED169
-GCA_011047875.1,Synechococcus sp.,,Leptococcus,yellowstonii,GCA_011047875.1,Leptococcus_yellowstonii_GCA_011047875.1
-GCA_011055065.1,Synechococcus sp.,,Leptococcus,yellowstonii,GCA_011055065.1,Leptococcus_yellowstonii_GCA_011055065.1
+GCA_011047875.1,Synechococcus sp.,,Leptococcus,yellowstonii,GCA_011047875.1,Leptococcus_sp._GCA_011047875.1
+GCA_011055065.1,Synechococcus sp.,,Leptococcus,yellowstonii,GCA_011055065.1,Leptococcus_sp._GCA_011055065.1
 GCA_000019485.1,Synechococcus sp. PCC 7002,PCC 7002,Limnothrix,euryhalinus,PCC 7002,Limnothrix_euryhalinus_PCC 7002
 GCA_000332275.1,Synechococcus sp. PCC 7336,PCC 7336,Brevicoccus,berkleyi,PCC 7336,Brevicoccus_berkleyi_PCC_7336_GCA_000332275.1
 GCA_013133755.1,Synechococcus sp. MIT S9220,,Pseudosynechococcus,sp.,MIT S9220,Pseudosynechococcus_sp._MIT S9220
@@ -62,7 +62,7 @@ GCA_004211895.1,Synechococcus sp. MED-G134,,Parasynechococcus,sp.,MED-G134,Synec
 GCA_011523835.1,Synechococcus sp. CO36386bin_29,,Parasynechococcus,sp.,CO36386bin_29,Synechococcus_C_sp._CO36386bin_29
 GCA_011525445.1,Synechococcus sp. CO36386bin_37,,Parasynechococcus,sp.,CO36386bin_37,Synechococcus_C_sp._CO36386bin_37
 GCA_011523295.1,Synechococcus sp. CO36406bin_26,,Parasynechococcus,sp.,CO36406bin_26,Synechococcus_C_sp._CO36406bin_26
-GCA_011523155.1,Synechococcus sp. PL34863bin_39,,Parasynechococcus,sp.,PL34863bin_39,Synechococcus_C_sp._PL34863bin_39
+GCA_011523155.1,Synechococcus sp. PL34863bin_39,,Parasynechococcus,sp.,PL34863bin_39,Pseudosynechococcus_sp._PL34863bin_39
 GCA_001007625.1,Candidatus Synechococcus spongiarum 142,,Synechospongium,sp.,142a,Synechospongium_sp._142a
 GCA_009840445.1,Synechococcus sp. SB0662_bin_14,,Synechospongium,sp.,SB0662_bin_14,Synechospongium_sp._SB0662_bin_14
 GCA_009839805.1,Synechococcus sp. SB0662_bin_45,,Synechospongium,sp.,SB0662_bin_45,Synechospongium_sp._SB0662_bin_45
@@ -86,4 +86,4 @@ GCA_009842265.1,Synechococcus sp. SB0677_bin_5,,Synechospongium,sp.,SB0677_bin_5
 GCA_009842105.1,Synechococcus sp. SB0678_bin_12,,Synechospongium,sp.,SB0678_bin_12,Synechospongium_sp._SB0678_bin_12
 GCA_003555505.1,Thermosynechococcus elongatus PKUAC-SCTE542,PKUAC-SCTE542,Thermosynechococcus,elongatus,PKUAC-SCTE542,Thermosynechococcus_elongatus_PKUAC-SCTE542
 GCA_008386235.1,Thermosynechococcus sp. CL-1,CL-1,Thermosynechococcus,sp.,CL-1,Thermosynechococcus_sp._CL-1
-GCA_003149585.1,Synechococcus sp. XM-24,,Vulcanococcus,indicus,XM-24,Vulcanococcus_sp._XM-24
+GCA_003149585.1,Synechococcus sp. XM-24,,Vulcanococcus,indicus,XM-24,Vulcanococcus_indicus._XM-24
