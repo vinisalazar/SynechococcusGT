@@ -142,7 +142,6 @@
 ..//ncbi/processing/prodigal_proteins/GCA_007571215.1_ASM757121v1_genomic_prodigal_proteins.faa
 ..//ncbi/processing/prodigal_proteins/GCA_007571085.1_ASM757108v1_genomic_prodigal_proteins.faa
 ..//ncbi/processing/prodigal_proteins/GCA_011365345.1_ASM1136534v1_genomic_prodigal_proteins.faa
-..//ncbi/processing/prodigal_proteins/GCA_008807075.1_ASM880707v1_genomic_prodigal_proteins.faa
 ..//ncbi/processing/prodigal_proteins/GCA_004212765.1_ASM421276v1_genomic_prodigal_proteins.faa
 ..//ncbi/processing/prodigal_proteins/GCA_004213055.1_ASM421305v1_genomic_prodigal_proteins.faa
 ..//ncbi/processing/prodigal_proteins/GCA_007828135.1_ASM782813v1_genomic_prodigal_proteins.faa
