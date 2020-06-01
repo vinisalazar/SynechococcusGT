@@ -1,12 +1,12 @@
-[2020-05-30 19:37:01] INFO: CompareM v0.0.25
-[2020-05-30 19:37:01] INFO: comparem aai_wf -c 32 --file_ext faa --proteins input output --tmp_dir tmp_dir
-[2020-05-30 19:37:01] INFO: Appending genome identifiers to query genes.
-[2020-05-30 19:37:03] INFO: Creating DIAMOND database (be patient!).
-[2020-05-30 19:37:06] INFO: Performing self similarity sequence between genomes (be patient!).
-[2020-05-30 19:43:59] INFO: Sorting table with hits (be patient!).
-[2020-05-30 19:47:16] INFO: Sequence similarity results written to: output/similarity
-[2020-05-30 19:47:16] INFO: Calculating length of genes.
-[2020-05-30 19:47:17] INFO: Indexing sorted hit table.
-[2020-05-30 19:48:01] INFO: Calculating AAI between all 28680 pairs of genomes:
-[2020-05-30 19:49:58] INFO: Summarizing AAI results.
-[2020-05-30 19:49:58] INFO: AAI between genomes written to: output/aai/aai_summary.tsv
+[2020-06-01 13:57:13] INFO: CompareM v0.0.25
+[2020-06-01 13:57:13] INFO: comparem aai_wf -c 32 --file_ext faa --proteins input output --tmp_dir tmp_dir
+[2020-06-01 13:57:13] INFO: Appending genome identifiers to query genes.
+[2020-06-01 13:57:15] INFO: Creating DIAMOND database (be patient!).
+[2020-06-01 13:57:18] INFO: Performing self similarity sequence between genomes (be patient!).
+[2020-06-01 14:10:22] INFO: Sorting table with hits (be patient!).
+[2020-06-01 14:15:34] INFO: Sequence similarity results written to: output/similarity
+[2020-06-01 14:15:34] INFO: Calculating length of genes.
+[2020-06-01 14:15:36] INFO: Indexing sorted hit table.
+[2020-06-01 14:16:50] INFO: Calculating AAI between all 31878 pairs of genomes:
+[2020-06-01 14:20:00] INFO: Summarizing AAI results.
+[2020-06-01 14:20:00] INFO: AAI between genomes written to: output/aai/aai_summary.tsv
