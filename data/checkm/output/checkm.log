@@ -1,0 +1,34 @@
+[2020-05-27 20:24:09] INFO: CheckM v1.1.2
+[2020-05-27 20:24:09] INFO: checkm taxonomy_wf -f checkm_tax_wf.tsv -t 16 phylum Cyanobacteria input/ output/ --tab_table
+[2020-05-27 20:24:09] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2020-05-27 20:24:12] INFO: Marker set for Cyanobacteria contains 472 marker genes arranged in 368 sets.
+[2020-05-27 20:24:12] INFO: Marker set inferred from 129 reference genomes.
+[2020-05-27 20:24:12] INFO: Marker set for Bacteria contains 104 marker genes arranged in 58 sets.
+[2020-05-27 20:24:12] INFO: Marker set inferred from 5449 reference genomes.
+[2020-05-27 20:24:12] INFO: Marker set written to: output/Cyanobacteria.ms
+[2020-05-27 20:24:12] INFO: { Current stage: 0:00:03.086 || Total: 0:00:03.086 }
+[2020-05-27 20:24:12] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2020-05-27 20:31:03] INFO: CheckM v1.1.2
+[2020-05-27 20:31:03] INFO: checkm taxonomy_wf -f checkm_tax_wf.tsv -t 16 phylum Cyanobacteria input/ output/ --tab_table
+[2020-05-27 20:31:03] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2020-05-27 20:31:06] INFO: Marker set for Cyanobacteria contains 472 marker genes arranged in 368 sets.
+[2020-05-27 20:31:06] INFO: Marker set inferred from 129 reference genomes.
+[2020-05-27 20:31:06] INFO: Marker set for Bacteria contains 104 marker genes arranged in 58 sets.
+[2020-05-27 20:31:06] INFO: Marker set inferred from 5449 reference genomes.
+[2020-05-27 20:31:07] INFO: Marker set written to: output/Cyanobacteria.ms
+[2020-05-27 20:31:07] INFO: { Current stage: 0:00:03.134 || Total: 0:00:03.134 }
+[2020-05-27 20:31:07] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2020-05-27 20:31:10] INFO: Identifying marker genes in 240 bins with 16 threads:
+[2020-05-27 20:46:21] INFO: Saving HMM info to file.
+[2020-05-27 20:46:29] INFO: { Current stage: 0:15:22.125 || Total: 0:15:25.260 }
+[2020-05-27 20:46:29] INFO: Parsing HMM hits to marker genes:
+[2020-05-27 20:46:56] INFO: Aligning marker genes with multiple hits in a single bin:
+[2020-05-27 20:48:03] INFO: { Current stage: 0:01:33.889 || Total: 0:16:59.149 }
+[2020-05-27 20:48:03] INFO: Calculating genome statistics for 240 bins with 16 threads:
+[2020-05-27 20:48:04] INFO: { Current stage: 0:00:01.089 || Total: 0:17:00.239 }
+[2020-05-27 20:48:04] INFO: [CheckM - qa] Tabulating genome statistics.
+[2020-05-27 20:48:04] INFO: Calculating AAI between multi-copy marker genes.
+[2020-05-27 20:48:04] INFO: Reading HMM info from file.
+[2020-05-27 20:48:06] INFO: Parsing HMM hits to marker genes:
+[2020-05-27 20:48:35] INFO: QA information written to: checkm_tax_wf.tsv
+[2020-05-27 20:48:35] INFO: { Current stage: 0:00:31.133 || Total: 0:17:31.372 }

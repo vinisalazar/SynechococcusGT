@@ -1,0 +1,7 @@
+assembly_id	num_SCG_hits	uniq_SCG_hits	perc_comp	perc_redund
+GCA_003555505.1_ASM355550v1_genomic_prodigal_proteins	244	206	97.21	17.53
+GCA_001039265.1_ASM103926v1_genomic_prodigal_proteins	213	188	84.86	11.16
+GCA_000775285.1_ASM77528v1_genomic_prodigal_proteins	246	211	98.01	14.74
+GCA_001706385.1_ASM170638v1_genomic_prodigal_proteins	242	220	96.41	10.36
+GCA_002321935.1_ASM232193v1_genomic_prodigal_proteins	242	204	96.41	17.53
+GCA_002321945.1_ASM232194v1_genomic_prodigal_proteins	243	209	96.81	14.74

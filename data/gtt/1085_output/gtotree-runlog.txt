@@ -1,0 +1,151 @@
+
+
+               GToTree v1.4.12 (github.com/AstrobioMike/GToTree)
+
+
+ ---------------------------------  RUN INFO  --------------------------------- 
+
+    Command entered:
+    /home/vini/anaconda3/envs/gtt/bin/GToTree -A 1085_input.txt -m 1085_labels.tsv -H Cyanobacteria -o 1085_output -j 32
+
+
+    Input genome sources include:
+      - Amino acid files listed in 1085_input.txt (1085 genomes)
+
+                             [0;32mTotal input genomes: 1085[0m
+
+    HMM source to be used:
+      - Cyanobacteria (251 targets)
+
+
+    Options set:
+      - The output directory has been set to "1085_output/".
+      - The file "1085_labels.tsv" will be used to modify labels of the specified genomes.
+      - Number of jobs to run during parallelizable steps has been set to 32.
+
+ ############################################################################## 
+ ####         Working on the genomes provided as amino acid files          ####
+ ############################################################################## 
+
+           It is currently 05:12 PM; the process started at 05:12 PM.
+               Current process runtime: 0 hours and 0 minutes.
+
+_______________________________________________________________________________
+
+
+ ############################################################################## 
+ ####                     Filtering genes by length                        ####
+ ############################################################################## 
+
+     Keeping those with lengths within 20% of the median for the gene set.
+
+           It is currently 05:16 PM; the process started at 05:12 PM.
+               Current process runtime: 0 hours and 4 minutes.
+
+
+________________________________________________________________________________ 
+
+
+
+ ############################################################################## 
+ ####                Filtering genomes with too few hits                   ####
+ ############################################################################## 
+
+     Removing those with fewer than 50% of the total SCGs targeted.
+
+           It is currently 05:17 PM; the process started at 05:12 PM.
+               Current process runtime: 0 hours and 4 minutes.
+
+     [0;31m*******************************[0m NOTICE [0;31m*******************************[0m  
+	  35 genome(s) removed from analysis due to having too few hits.
+
+        Reported in "1085_output/run_files/Genomes_removed_for_too_few_hits.tsv".
+     [0;31m********************************************************************** [0m
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####          Aligning, trimming, and inserting gap-sequences             ####
+ ############################################################################## 
+
+           It is currently 05:17 PM; the process started at 05:12 PM.
+               Current process runtime: 0 hours and 5 minutes.
+
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                  Catting all alignments together                     ####
+ ############################################################################## 
+
+           It is currently 05:30 PM; the process started at 05:12 PM.
+               Current process runtime: 0 hours and 18 minutes.
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                   Adding more informative headers                    ####
+ ############################################################################## 
+
+
+________________________________________________________________________________
+
+
+
+ ############################################################################## 
+ ####                          Running FastTree                            ####
+ ############################################################################## 
+
+           It is currently 05:30 PM; the process started at 05:12 PM.
+               Current process runtime: 0 hours and 18 minutes.
+
+
+
+#################################################################################
+####                                 [0;32mDone!![0m                                  ####
+#################################################################################
+
+  Overall, 1050 genomes of the input 1085 were retained (see notes below).
+
+    Tree written to:
+        [0;32m1085_output/1085_output.tre[0m
+
+    Alignment written to:
+        [0;32m1085_output/Aligned_SCGs_mod_names.faa[0m
+
+    Summary file with comp./redund. estimates written to:
+        [0;32m1085_output/Genomes_summary_info.tsv[0m
+
+    Summary table with hits per target gene per genome written to:
+        [0;32m1085_output/SCG_hit_counts.tsv[0m
+
+    Partitions (for downstream use with mixed-model treeing) written to:
+        [0;32m1085_output/run_files/Partitions.txt[0m
+
+________________________________________________________________________________
+
+  Notes:
+
+    [0;31m35 genome(s) removed due to having too few hits to the targeted SCGs.[0m
+    6 genome(s) had an estimated redundancy of >= 10%.
+
+        Reported in "1085_output/run_files/".
+________________________________________________________________________________
+
+    Log file written to:
+        [0;32m1085_output/gtotree-runlog.txt[0m
+
+    Programs used and their citations have been written to:
+        [0;32m1085_output/citations.txt[0m
+
+                                         Total process runtime: 2 hours and 4 minutes.
+                                                      [0;32mHappy Monday :)[0m
+
