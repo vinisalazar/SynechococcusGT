@@ -27,7 +27,7 @@
  ####         Working on the genomes provided as amino acid files          ####
  ############################################################################## 
 
-           It is currently 05:12 PM; the process started at 05:12 PM.
+           It is currently 07:40 PM; the process started at 07:40 PM.
                Current process runtime: 0 hours and 0 minutes.
 
 _______________________________________________________________________________
@@ -39,7 +39,7 @@ _______________________________________________________________________________
 
      Keeping those with lengths within 20% of the median for the gene set.
 
-           It is currently 05:16 PM; the process started at 05:12 PM.
+           It is currently 07:45 PM; the process started at 07:40 PM.
                Current process runtime: 0 hours and 4 minutes.
 
 
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
      Removing those with fewer than 50% of the total SCGs targeted.
 
-           It is currently 05:17 PM; the process started at 05:12 PM.
+           It is currently 07:45 PM; the process started at 07:40 PM.
                Current process runtime: 0 hours and 4 minutes.
 
      [0;31m*******************************[0m NOTICE [0;31m*******************************[0m  
@@ -70,7 +70,7 @@ ________________________________________________________________________________
  ####          Aligning, trimming, and inserting gap-sequences             ####
  ############################################################################## 
 
-           It is currently 05:17 PM; the process started at 05:12 PM.
+           It is currently 07:45 PM; the process started at 07:40 PM.
                Current process runtime: 0 hours and 5 minutes.
 
 
@@ -83,7 +83,7 @@ ________________________________________________________________________________
  ####                  Catting all alignments together                     ####
  ############################################################################## 
 
-           It is currently 05:30 PM; the process started at 05:12 PM.
+           It is currently 07:58 PM; the process started at 07:40 PM.
                Current process runtime: 0 hours and 18 minutes.
 
 
@@ -104,7 +104,7 @@ ________________________________________________________________________________
  ####                          Running FastTree                            ####
  ############################################################################## 
 
-           It is currently 05:30 PM; the process started at 05:12 PM.
+           It is currently 07:59 PM; the process started at 07:40 PM.
                Current process runtime: 0 hours and 18 minutes.
 
 
@@ -147,5 +147,5 @@ ________________________________________________________________________________
         [0;32m1085_output/citations.txt[0m
 
                                          Total process runtime: 2 hours and 4 minutes.
-                                                      [0;32mHappy Monday :)[0m
+                                                      [0;32mHappy Wednesday :)[0m
 
