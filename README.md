@@ -1,6 +1,6 @@
 # Synechococcus genomic taxonomy
 
-This is a repository to accompany the manuscript **"Ecogenomics and taxonomy structure of the *Synechococcus* collective as distinct orders of the phylum Cyanobacteria"** submitted to Environmental Microbiology (previous preprint version available [here](https://www.biorxiv.org/content/10.1101/2020.03.20.999532v2).
+This is a repository to accompany the manuscript [A New Genomic Taxonomy System for the *Synechococcus* Collective](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15173), published in Environmental Microbiology.
 
 * [data](./data) contains data files used to generate figures as well as log files from third-party programs.  
 * [code](./ipynb) contains the Jupyter Notebooks in which the analysis are performed.  
